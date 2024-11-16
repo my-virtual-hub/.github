@@ -6,7 +6,8 @@ Neste hub, você encontrará uma compilação dos meus projetos, que faz parte d
 ## Contato
 * Portal: https://www.myvirtualhub.com.br
 * E-mail: myvirtualhub@myvirtualhub.com.br
-* GitHub: https://github.com/my-virtual-hub
+* GitHub MVH: https://github.com/my-virtual-hub
+* GitHub Pessoal: https://github.com/marco-quicula
 
 ## Licença
 **Todos os projetos contidos neste hub estão sob a licença Apache 2.0.**
