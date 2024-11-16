@@ -10,7 +10,7 @@ Neste hub, você encontrará uma compilação dos meus projetos, que faz parte d
 * GitHub Pessoal: https://github.com/marco-quicula
 
 ## Licença
-**Todos os projetos contidos neste hub estão sob a licença Apache 2.0.**
+**Todos os projetos contidos neste hub estão sob a licença [Apache 2.0](./../LICENSE).**
 
 <!--
 
