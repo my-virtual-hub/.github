@@ -1,1 +1,3 @@
 # .github docs
+
+Page Example
