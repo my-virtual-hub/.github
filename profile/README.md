@@ -9,7 +9,7 @@ Neste hub, você encontrará uma compilação dos meus projetos, que faz parte d
 ## Contato 📬 / Contact 📬
 - Portal: 🌍 [myvirtualhub.com.br](https://www.myvirtualhub.com.br)  
 - E-mail: 📧 myvirtualhub@myvirtualhub.com.br  
-- GitHub MVH: 🛠️ [GitHub MVH](https://github.com/my-virtual-hub)  
+- GitHub MVH: 🛠️ [GitHub MVH](https://github.com/myvirtualhub)  
 - GitHub Pessoal: 👨‍💻 [GitHub Pessoal](https://github.com/marco-quicula)  
 
 ---
@@ -30,7 +30,7 @@ In this hub, you'll find a collection of my projects, which is part of my portal
 ## Contato 📬 / Contact 📬
 - Portal: 🌍 [myvirtualhub.com.br](https://www.myvirtualhub.com.br)  
 - E-mail: 📧 myvirtualhub@myvirtualhub.com.br  
-- GitHub MVH: 🛠️ [GitHub MVH](https://github.com/my-virtual-hub)  
+- GitHub MVH: 🛠️ [GitHub MVH](https://github.com/myvirtualhub)  
 - Personal GitHub: 👨‍💻 [GitHub Pessoal](https://github.com/marco-quicula)  
 
 ---
